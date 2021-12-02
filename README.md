@@ -4,7 +4,7 @@ git branch -d branch_name
 ### To delete branch remotely,
 git push origin --delete branch_name
 
-### To remove a specific staged file(only added/staged, not committed) or unstage
+### To remove a specific staged file (only added/staged, not committed) or unstage
 git rm --cached file_name(with extension) <br>
 or, <br>
 git reset file_name(with extension)
@@ -14,3 +14,5 @@ git reset file_name(with extension)
 git reset HEAD
 
 
+### To remove all staged changes (even from files) and staged files(only added/staged, not committed) or unstage
+ git reset --hard HEAD
