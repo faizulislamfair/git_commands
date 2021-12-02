@@ -15,4 +15,10 @@ git reset HEAD
 
 
 ### To remove all staged changes (even from files) and staged files(only added/staged, not committed) or unstage
- git reset --hard HEAD
+git reset --hard HEAD
+
+
+### To exit from git log press 'q' (just q)
+
+### To view all commits in a clean way 
+git log --pretty==oneline
