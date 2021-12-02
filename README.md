@@ -20,5 +20,9 @@ git reset --hard HEAD
 
 ### To exit from git log press 'q' (just q)
 
-### To view all commits in a clean way 
+### To view all commits with ids in a clean way 
 git log --pretty==oneline
+
+
+### To view all commits with ids in a clean way (shorter version)
+git log --oneline
