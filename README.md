@@ -26,3 +26,8 @@ git log --pretty==oneline
 
 ### To view all commits with ids in a clean way (shorter version)
 git log --oneline
+
+
+### To display changes between a specific commit and current head
+git diff commit_id
+ 
