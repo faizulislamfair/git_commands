@@ -9,3 +9,7 @@
 - React
 - Javascript
 
+
+###
+- mongodb
+- mysql
