@@ -31,3 +31,5 @@ git log --oneline
 ### To display changes between a specific commit and current head
 git diff commit_id
  
+
+#### git revert sekha lagbe
