@@ -1,5 +1,5 @@
 ### To delete branch locally,
-git branch -d branch_name
+git branch -D branch_name
 
 ### To delete branch remotely,
 git push origin --delete branch_name
@@ -33,3 +33,6 @@ git diff commit_id
  
 
 #### git revert sekha lagbe
+
+### To abort merge after getting conflict message
+git merge --abort
