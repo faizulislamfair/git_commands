@@ -32,7 +32,10 @@ git log --oneline
 git diff commit_id
  
 
-#### git revert sekha lagbe
+### git revert sekha lagbe
 
 ### To abort merge after getting conflict message
 git merge --abort
+
+### git rebase sekha lagbe
+
