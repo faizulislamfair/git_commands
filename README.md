@@ -1,3 +1,43 @@
+### To setup username globally
+#### git config --global user.name "username"
+
+<br>
+
+### To setup email globally
+#### git config --global user.email "email"
+
+<br>
+
+### To change username globally
+#### git config --global user.name "username"
+
+<br>
+
+### To change email globally
+#### git config --global user.email "email"
+
+<br>
+
+### To check if the setup is complete
+#### git config --list
+
+<br>
+
+### To exit the list 
+#### press 'q'(just q)
+
+<br>
+
+### To see the username
+#### git config user.name
+
+<br>
+
+### To see the email
+#### git config user.email
+
+<br>
+
 ### To delete branch locally,
 #### git branch -D branch_name
 
