@@ -84,7 +84,7 @@ or, <br>
  
 <br> 
 
-### git revert sekha lagbe
+<!-- ### git revert sekha lagbe -->
 
 <br>
 
@@ -93,7 +93,7 @@ or, <br>
 
 <br>
 
-### git rebase sekha lagbe
+<!-- ### git rebase sekha lagbe -->
 
 <br>
 
