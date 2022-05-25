@@ -119,4 +119,9 @@ and then to apply changes after coming back later <br>
 ## To save stash with a custom message
 ### git stash push -m "message_name"
 
+<br>
+
+## To change name of most recent commit that hasn't been pushed to remote repo yet
+### git commit --amend -m "new commit message"
+
 
