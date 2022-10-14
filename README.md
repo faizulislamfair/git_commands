@@ -124,4 +124,11 @@ and then to apply changes after coming back later <br>
 ## To change name of most recent commit that hasn't been pushed to remote repo yet
 ### git commit --amend -m "new commit message"
 
+<br>
+
+## To change name of most recent commit that has been pushed to remote repo
+### git commit --amend -m "new commit message"
+### Plus
+### git push --force
+
 
