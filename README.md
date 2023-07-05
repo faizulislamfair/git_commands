@@ -131,4 +131,9 @@ and then to apply changes after coming back later <br>
 ### Plus
 ### git push --force
 
+<br>
 
+## To forcefully revert back to the state of the latest commit, discarding any local changes and disregarding any conflicts or warnings.
+### git checkout HEAD~ --force
+
+<br>
