@@ -138,3 +138,16 @@ and then to apply changes after coming back later <br>
 ### git checkout HEAD~ --force
 
 <br>
+
+
+## To move HEAD to a particular commit, push to repo and pull to master branch
+
+### git checkout commit_id
+### git add .
+### git commit -m "commit message"
+### git push origin HEAD:master --force
+### Plus
+### git checkout master
+### git pull 
+
+<br>
