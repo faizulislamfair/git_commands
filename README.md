@@ -1,3 +1,7 @@
+# Git Commands
+
+<br>
+
 ## To setup username globally
 ### git config --global user.name "username"
 
