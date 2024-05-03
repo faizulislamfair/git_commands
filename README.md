@@ -55,6 +55,23 @@ or, <br>
 
 <br>
 
+
+## To remove all staged changes or unstage
+### git reset commit_id
+
+<br>
+
+
+## To remove all unstaged changes and move head to specific point
+### git reset commit_id
+
+<br>
+
+## To remove all staged and unstaged changes and move head to specific point
+### git reset --hard commit_id
+
+<br>
+
 ## To remove all staged files (only added/staged, not committed) or unstage
 ### git reset HEAD
 
