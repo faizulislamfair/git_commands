@@ -97,15 +97,6 @@ or, <br>
 
 <br>
 
-## To bring in changes from a specific commit from another branch and commit(same repository)
-### git cherry-pick commit_id
-
-<br>
-
-## To bring in changes from a specific commit from another branch and only add but not commit(same repository)
-### git cherry-pick commit_id -n
-
-<br>
 
 ## To not lose changes by not committing yet and moving to another branch to work on something
 ### git stash <br>
@@ -149,5 +140,31 @@ and then to apply changes after coming back later <br>
 ### Plus
 ### git checkout master
 ### git pull 
+
+<br>
+
+
+## To bring in changes from a specific commit 
+
+## To bring in changes from one commit and commit directly in my branch
+
+### git cherry-pick commit_id 
+
+
+or, <br>
+
+
+## To bring in changes from more than one commit and commit directly in my branch
+
+### git cherry-pick commit_id_one commit_id_two 
+
+
+## To bring in changes from one commit and without committing directly in my branch
+
+### git cherry-pick commit_id -n
+
+then commit, <br>
+
+### git commit -m "commit_name"
 
 <br>
