@@ -1,5 +1,9 @@
 # Git Commands
 
+<div align='center'>
+<img alt="NPM" width="300px" src="git.png" />
+</div>
+
 <br>
 
 ## To setup username globally
