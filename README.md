@@ -1,7 +1,7 @@
 # Git Commands
 
 <div align='center'>
-<img alt="NPM" width="300px" src="git.png" />
+<img alt="Git" width="300px" src="git.png" />
 </div>
 
 <br>
@@ -186,5 +186,13 @@ or, <br>
 then commit, <br>
 
 ### git commit -m "commit_name"
+
+<br>
+
+
+## To undo changes introduced in a previous commit and commit
+### git revert commit_id
+### Plus
+### :q (to exit)
 
 <br>
