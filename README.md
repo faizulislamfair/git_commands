@@ -123,16 +123,9 @@ or, <br>
  
 <br> 
 
-<!-- ### git revert sekha lagbe -->
-
-<br>
 
 ## To abort merge after getting conflict message
 ### git merge --abort
-
-<br>
-
-<!-- ### git rebase sekha lagbe -->
 
 <br>
 
