@@ -63,6 +63,12 @@
 <br>
 
 
+## To download latest changes from a remote repository to local machine
+### git fetch 
+
+<br>
+
+
 ## To remove a specific staged file (only added/staged, not committed) or unstage
 ### git rm --cached file_name(with extension) <br>
 or, <br>
