@@ -56,6 +56,12 @@
 
 <br>
 
+
+## To download latest changes from a remote repository to local machine
+### git fetch 
+
+<br>
+
 ## To integrate changes from one branch into another
 ### git checkout branch_to_merge_into 
 ### git merge branch_to_merge_from 
@@ -63,8 +69,8 @@
 <br>
 
 
-## To download latest changes from a remote repository to local machine
-### git fetch 
+## To download latest changes from a remote repository to local machine and integrate into current branch (git fetch + git merge)
+### git pull
 
 <br>
 
