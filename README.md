@@ -56,6 +56,13 @@
 
 <br>
 
+## To integrate changes from one branch into another
+### git checkout branch_to_merge_into 
+### git merge branch_to_merge_from 
+
+<br>
+
+
 ## To remove a specific staged file (only added/staged, not committed) or unstage
 ### git rm --cached file_name(with extension) <br>
 or, <br>
@@ -196,3 +203,7 @@ then commit, <br>
 ### :q (to exit)
 
 <br>
+
+
+
+
