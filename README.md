@@ -210,5 +210,9 @@ then commit, <br>
 <br>
 
 
+## To replay all commits on our current branch on top of specified branch
+### git rebase branch_name
 
+## To edit commit history before rebasing
+### git rebase -i branch_name
 
